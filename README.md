@@ -269,5 +269,3 @@ Intermediately methylated regions are ignored that overlap with known regions th
 7. States with CpG density <= 2 are turned to no-data states
 8. If small IM regions are within two larger regions, classify as the state of the earlier large region (again)
 9. Remove small regions (<= 200 bp)
-#   S a m p l e - C o d e - - - J R C _ S e e k e r  
- 
